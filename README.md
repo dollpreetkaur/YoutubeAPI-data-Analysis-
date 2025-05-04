@@ -13,7 +13,7 @@ This project analyzes engagement metrics of trending YouTube videos, including v
 ##  Notebook
 Click the badge below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dollpreetkaur/YoutubeAPI-data-analysis/blob/main/youtube_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dollpreetkaur/YoutubeAPI-data-analysis-/blob/main/youtube_analysis.ipynb)
 
 ## 🔧 Technologies Used
 - Python
